@@ -51,12 +51,22 @@ In the tables below, Thomas High School, or the category it falls into is highli
                                  Before 9th Grade Data Was Removed
 ![new_by_spending](https://user-images.githubusercontent.com/90878911/137658503-be701da5-fb03-4f5b-9201-73c06bf2c909.png)<br/><br/>
 
-#### Scores by School Spending<br/>
+#### Scores by School Size<br/>
 
 
                                  Before 9th Grade Data Was Removed
-![old_by_spending](https://user-images.githubusercontent.com/90878911/137658513-7b93f1d1-0cb8-4421-8761-45b48784c09d.png)<br/><br/>
+![old_by_size](https://user-images.githubusercontent.com/90878911/137659134-13a5d8a3-caa2-4c9a-9cb7-6736ab0523a6.png)<br/><br/>
 
                                  Before 9th Grade Data Was Removed
-![new_by_spending](https://user-images.githubusercontent.com/90878911/137658503-be701da5-fb03-4f5b-9201-73c06bf2c909.png)<br/><br/>
+![new_by_size](https://user-images.githubusercontent.com/90878911/137659127-dff5ae97-b4c3-4e96-8a8a-ed390f75a730.png)<br/><br/>
+
+
+#### Scores by School Type<br/>
+
+
+                                 Before 9th Grade Data Was Removed
+![old_by_size](https://user-images.githubusercontent.com/90878911/137659134-13a5d8a3-caa2-4c9a-9cb7-6736ab0523a6.png)<br/><br/>
+
+                                 Before 9th Grade Data Was Removed
+![new_by_size](https://user-images.githubusercontent.com/90878911/137659127-dff5ae97-b4c3-4e96-8a8a-ed390f75a730.png)<br/><br/>
 
