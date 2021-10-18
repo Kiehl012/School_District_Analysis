@@ -5,7 +5,7 @@ The purpose of this analysis was to help the chief data scientist of a city scho
 
 ## Results
 
-### District Summary Before and After Altered Data Was Removed
+### District Summary Before and After Thomas High School 9th Grade Math and Reading Scores Were Removed
 
 #### Before
 ![old_district_summary](https://user-images.githubusercontent.com/90878911/137651718-2b44afa3-8ad1-4da9-b246-6937fa09108a.png)
@@ -16,10 +16,12 @@ The purpose of this analysis was to help the chief data scientist of a city scho
 From this, we can see that removing the data in question did not significantly alter district-wide scores. In fact, the only difference is that the average math score dropped by .1 points.
 
 
-### Per School Summary Before and After Altered Data Was Removed
+### Per School Summary Before and After Thomas High School 9th Grade Reading and Math Scores Were Removed
 
 #### Before
-![old_school_summary](https://user-images.githubusercontent.com/90878911/137651706-4ee349f7-db6e-4fb2-b8dc-90837b406412.png)
+![old_school_summary](https://user-images.githubusercontent.com/90878911/137652948-d59f4559-fc53-4402-8e2b-28619dcf941a.png)
 
 #### After	
-![new_school_summary](https://user-images.githubusercontent.com/90878911/137651723-d88073be-9616-4015-bde3-5568830890fb.png)
+![new_school_summary](https://user-images.githubusercontent.com/90878911/137652814-d5bd91a5-b756-4c12-a358-44933fae1615.png)
+
+After removing the math and reading scores from Thomas High School, we can see that while the average scores were largely unaffected, the "Percent Passing" metrics fell drastically. That's because this summary was still counting the 9th graders in the total student count even though their scores were removed from the data set.
