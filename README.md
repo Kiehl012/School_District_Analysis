@@ -31,7 +31,7 @@ After removing the math and reading scores from Thomas High School, we can see t
 #### Math and Reading Scores by Grade
 
 #### Before 9th Grade Data Was Removed
-               Reading                  Math
+               Reading                             Math
 ![old_math_by_grade](https://user-images.githubusercontent.com/90878911/137656420-83ed59c6-2a2d-4c88-8f83-dc592e935452.png) | ![old_reading_by_grade](https://user-images.githubusercontent.com/90878911/137656429-630f0cdd-1912-4eed-b3d9-480f3ef642df.png)
 
 #### After 9th Grade Data Was Removed
