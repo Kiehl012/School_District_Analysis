@@ -36,4 +36,4 @@ After removing the math and reading scores from Thomas High School, we can see t
 
 #### After 9th Grade Data Was Removed
                 Math                                        Reading
-![new_math_by_grade](https://user-images.githubusercontent.com/90878911/137656651-542b16e0-6274-4c99-bcb5-fbf1fadd44bf.png) | ![old_reading_by_grade](https://user-images.githubusercontent.com/90878911/137656429-630f0cdd-1912-4eed-b3d9-480f3ef642df.png)
+![new_math_by_grade](https://user-images.githubusercontent.com/90878911/137656651-542b16e0-6274-4c99-bcb5-fbf1fadd44bf.png) | ![new_reading_by_grade](https://user-images.githubusercontent.com/90878911/137656653-67171cf8-b5e1-466e-ab55-68ef25ac3451.png)
