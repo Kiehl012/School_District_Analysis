@@ -6,6 +6,7 @@ The purpose of this analysis was to help the chief data scientist of a city scho
 ## Results
 
 ### District Summary Before and After Altered Data Was Removed
+
 #### Before
 ![old_district_summary](https://user-images.githubusercontent.com/90878911/137651718-2b44afa3-8ad1-4da9-b246-6937fa09108a.png)
 	
@@ -14,3 +15,11 @@ The purpose of this analysis was to help the chief data scientist of a city scho
 
 From this, we can see that removing the data in question did not significantly alter district-wide scores. In fact, the only difference is that the average math score dropped by .1 points.
 
+
+### Per School Summary Before and After Altered Data Was Removed
+
+#### Before
+![old_school_summary](https://user-images.githubusercontent.com/90878911/137651706-4ee349f7-db6e-4fb2-b8dc-90837b406412.png)
+
+#### After	
+![new_school_summary](https://user-images.githubusercontent.com/90878911/137651723-d88073be-9616-4015-bde3-5568830890fb.png)
