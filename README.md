@@ -22,6 +22,16 @@ From this, we can see that removing the data in question did not significantly a
 ![old_school_summary](https://user-images.githubusercontent.com/90878911/137652948-d59f4559-fc53-4402-8e2b-28619dcf941a.png)
 
 #### After	
-![new_school_summary](https://user-images.githubusercontent.com/90878911/137652814-d5bd91a5-b756-4c12-a358-44933fae1615.png)
+![new_school_summary](https://user-images.githubusercontent.com/90878911/137653576-bdd38bbf-82c2-4299-969b-18cb7cd2ea21.png)
 
-After removing the math and reading scores from Thomas High School, we can see that while the average scores were largely unaffected, the "Percent Passing" metrics fell drastically. That's because this summary was still counting the 9th graders in the total student count even though their scores were removed from the data set.
+After removing the math and reading scores from Thomas High School, we can see that average scores and the percentage of students passing both math and reading, was largely unchanged. 
+
+### Scores by: Grade, School Spending, School Size, and School Type
+
+#### Math and Reading Scores by Grade
+
+#### Before 9th Grade Data Was Removed
+                                                  Reading                                                                      Math
+![old_math_by_grade](https://user-images.githubusercontent.com/90878911/137656420-83ed59c6-2a2d-4c88-8f83-dc592e935452.png) | ![old_reading_by_grade](https://user-images.githubusercontent.com/90878911/137656429-630f0cdd-1912-4eed-b3d9-480f3ef642df.png)
+
+#### After 9th Grade Data Was Removed
