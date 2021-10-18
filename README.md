@@ -19,6 +19,9 @@ The purpose of this analysis was to help the chief data scientist of a city scho
 From this, we can see that removing the data in question did not significantly alter district-wide scores. In fact, the only difference is that the average math score dropped by .1 points.
 
 
+
+
+
 ### Per School Summary Before and After Thomas High School 9th Grade Reading and Math Scores Were Removed
 
 
