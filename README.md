@@ -5,7 +5,10 @@ The purpose of this analysis was to help the chief data scientist of a city scho
 
 ## Results
 
+
+
 ### District Summary Before and After Thomas High School 9th Grade Math and Reading Scores Were Removed
+
 
 #### Before
 ![old_district_summary](https://user-images.githubusercontent.com/90878911/137651718-2b44afa3-8ad1-4da9-b246-6937fa09108a.png)
@@ -18,13 +21,16 @@ From this, we can see that removing the data in question did not significantly a
 
 ### Per School Summary Before and After Thomas High School 9th Grade Reading and Math Scores Were Removed
 
+
 #### Before
 ![old_school_summary](https://user-images.githubusercontent.com/90878911/137652948-d59f4559-fc53-4402-8e2b-28619dcf941a.png)
 
 #### After	
 ![new_school_summary](https://user-images.githubusercontent.com/90878911/137653576-bdd38bbf-82c2-4299-969b-18cb7cd2ea21.png)
 
+
 After removing the math and reading scores from Thomas High School, we can see that average scores and the percentage of students passing both math and reading, was largely unchanged. 
+
 
 ### Scores by: Grade, School Spending, School Size, and School Type
 
@@ -32,8 +38,8 @@ After removing the math and reading scores from Thomas High School, we can see t
 
 #### Before 9th Grade Data Was Removed
                Math                                        Reading
-![old_math_by_grade](https://user-images.githubusercontent.com/90878911/137656420-83ed59c6-2a2d-4c88-8f83-dc592e935452.png) | ![old_reading_by_grade](https://user-images.githubusercontent.com/90878911/137656429-630f0cdd-1912-4eed-b3d9-480f3ef642df.png)
+![old_math_by_grade](https://user-images.githubusercontent.com/90878911/137656420-83ed59c6-2a2d-4c88-8f83-dc592e935452.png)  ![old_reading_by_grade](https://user-images.githubusercontent.com/90878911/137656429-630f0cdd-1912-4eed-b3d9-480f3ef642df.png)
 
 #### After 9th Grade Data Was Removed
                 Math                                        Reading
-![new_math_by_grade](https://user-images.githubusercontent.com/90878911/137656651-542b16e0-6274-4c99-bcb5-fbf1fadd44bf.png) | ![new_reading_by_grade](https://user-images.githubusercontent.com/90878911/137656653-67171cf8-b5e1-466e-ab55-68ef25ac3451.png)
+![new_math_by_grade](https://user-images.githubusercontent.com/90878911/137656651-542b16e0-6274-4c99-bcb5-fbf1fadd44bf.png)  ![new_reading_by_grade](https://user-images.githubusercontent.com/90878911/137656653-67171cf8-b5e1-466e-ab55-68ef25ac3451.png)
